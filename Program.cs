@@ -8,7 +8,7 @@ namespace LXD16
         {
             int poop = 10;
 
-            Console.WriteLine(poop);
+            Console.WriteLine(poop + 1);
         }
     }
 }
