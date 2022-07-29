@@ -4,19 +4,13 @@ namespace LXD16
 {
     public class Program
     {
-        public static int num;
+        
         public static void Main(string[] args) 
         {
             Generate();
         }
 
-        public static void PrintNum() 
-        {
-            Console.WriteLine(num);
-            Console.ReadLine();
-            Generate();
-        }
-
+        public static int num;
         public static void Generate() 
         {
             Random ran = new Random();
@@ -35,8 +29,6 @@ namespace LXD16
                 Generate();
             }
             num = x;
-            //Comment this out if using just the value
-            PrintNum();
         }
     }
 }
