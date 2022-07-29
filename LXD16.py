@@ -1,7 +1,6 @@
 import random
 
 num = int
-
 def generate():
     ran = random.Random()
     l = ran.Next(0,5000)
