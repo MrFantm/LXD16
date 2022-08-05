@@ -29,4 +29,5 @@ def wait(): #Comment this out if you don't plan on interacting with a console
     input()
     generate(True)
 
+#Runs the generation on start; Comment this out or delete it if you're calling the method from another script.
 generate(True)
