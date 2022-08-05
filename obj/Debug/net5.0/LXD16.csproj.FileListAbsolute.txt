@@ -14,3 +14,19 @@ C:\Users\Rattl\Desktop\LXD16\obj\Debug\net5.0\LXD16.dll
 C:\Users\Rattl\Desktop\LXD16\obj\Debug\net5.0\ref\LXD16.dll
 C:\Users\Rattl\Desktop\LXD16\obj\Debug\net5.0\LXD16.pdb
 C:\Users\Rattl\Desktop\LXD16\obj\Debug\net5.0\LXD16.genruntimeconfig.cache
+C:\Users\Rattl\Desktop\Python Projects\LXD16\bin\Debug\net5.0\LXD16.exe
+C:\Users\Rattl\Desktop\Python Projects\LXD16\bin\Debug\net5.0\LXD16.deps.json
+C:\Users\Rattl\Desktop\Python Projects\LXD16\bin\Debug\net5.0\LXD16.runtimeconfig.json
+C:\Users\Rattl\Desktop\Python Projects\LXD16\bin\Debug\net5.0\LXD16.runtimeconfig.dev.json
+C:\Users\Rattl\Desktop\Python Projects\LXD16\bin\Debug\net5.0\LXD16.dll
+C:\Users\Rattl\Desktop\Python Projects\LXD16\bin\Debug\net5.0\ref\LXD16.dll
+C:\Users\Rattl\Desktop\Python Projects\LXD16\bin\Debug\net5.0\LXD16.pdb
+C:\Users\Rattl\Desktop\Python Projects\LXD16\obj\Debug\net5.0\LXD16.csproj.AssemblyReference.cache
+C:\Users\Rattl\Desktop\Python Projects\LXD16\obj\Debug\net5.0\LXD16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rattl\Desktop\Python Projects\LXD16\obj\Debug\net5.0\LXD16.AssemblyInfoInputs.cache
+C:\Users\Rattl\Desktop\Python Projects\LXD16\obj\Debug\net5.0\LXD16.AssemblyInfo.cs
+C:\Users\Rattl\Desktop\Python Projects\LXD16\obj\Debug\net5.0\LXD16.csproj.CoreCompileInputs.cache
+C:\Users\Rattl\Desktop\Python Projects\LXD16\obj\Debug\net5.0\LXD16.dll
+C:\Users\Rattl\Desktop\Python Projects\LXD16\obj\Debug\net5.0\ref\LXD16.dll
+C:\Users\Rattl\Desktop\Python Projects\LXD16\obj\Debug\net5.0\LXD16.pdb
+C:\Users\Rattl\Desktop\Python Projects\LXD16\obj\Debug\net5.0\LXD16.genruntimeconfig.cache

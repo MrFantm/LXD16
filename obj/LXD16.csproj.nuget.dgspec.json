@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rattl\\Desktop\\LXD16\\LXD16.csproj": {}
+    "C:\\Users\\Rattl\\Desktop\\Python Projects\\LXD16\\LXD16.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rattl\\Desktop\\LXD16\\LXD16.csproj": {
+    "C:\\Users\\Rattl\\Desktop\\Python Projects\\LXD16\\LXD16.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rattl\\Desktop\\LXD16\\LXD16.csproj",
+        "projectUniqueName": "C:\\Users\\Rattl\\Desktop\\Python Projects\\LXD16\\LXD16.csproj",
         "projectName": "LXD16",
-        "projectPath": "C:\\Users\\Rattl\\Desktop\\LXD16\\LXD16.csproj",
+        "projectPath": "C:\\Users\\Rattl\\Desktop\\Python Projects\\LXD16\\LXD16.csproj",
         "packagesPath": "C:\\Users\\Rattl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rattl\\Desktop\\LXD16\\obj\\",
+        "outputPath": "C:\\Users\\Rattl\\Desktop\\Python Projects\\LXD16\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
