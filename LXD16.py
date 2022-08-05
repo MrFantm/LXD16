@@ -30,4 +30,3 @@ def wait(): #Comment this out if you don't plan on interacting with a console
     generate(True)
 
 generate(True)
-
