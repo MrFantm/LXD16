@@ -1,2 +1,2 @@
 # LXD16
-Custom RNG Algorithm
+Custom RNG Algorithm *It's busted :(* 
